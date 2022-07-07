@@ -1,6 +1,6 @@
 {
   "name": "@thorsten-wolf-neptune/dxp-dep-sap-edition",
-  "version": "6.0.0",
+  "version": "21.0.0",
   "description": "SAP Edition Dependency",
   "main": "index.js",
   "scripts": {
